@@ -8,7 +8,7 @@ public class Class_1 {
 	public void method_1() {
 		System.out.println("111111111111111111111111111");
 	}
-	public void method_1() {
+	public void method_2() {
 		System.out.println("22222222222222222222222222222");
 	}
 }
