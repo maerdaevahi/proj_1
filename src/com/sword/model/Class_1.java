@@ -11,4 +11,10 @@ public class Class_1 {
 	public void method_2() {
 		System.out.println("22222222222222222222222222222");
 	}
+	public void method_3() {
+		System.out.println("222222222222222222");
+	}
+	public void method_4() {
+		System.out.println("77777777777777777777777");
+	}
 }
