@@ -20,7 +20,7 @@ public class Class_1 {
 	public void method_5() {
 		System.out.println("222222222222222222");
 	}
-	public void method_6() {
-		System.out.println("77777777777777777777777");
+	public void method_7() {
+		System.out.println("777tttttt7777777777");
 	}
 }
